@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #753337 !important;
+    margin-bottom: 2%;
+}
+
+.navbar a {
+    color: #f7d1b5 !important;
+    
+}
+
+.navbar .name {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+
+}
+
+.navbar a:hover {
+    opacity: 0.75;
+}
+
+.navbar .current:hover {
+    opacity: 1;
+}
